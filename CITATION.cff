@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following preprint."
+title: "Light Pollution vs Depressive Disorders — Code Snapshot (Exact-Output-Preserving)"
+authors:
+  - family-names: Zamaninasab
+    given-names: Hossein
+    orcid: https://orcid.org/0000-0002-7967-5945
+  - family-names: Heidarpanah
+    given-names: Arsalan
+license: MIT
+doi: 10.21203/rs.3.rs-7233105/v1
+preferred-citation:
+  type: article
+  title: "The Negative Correlation Between Nighttime Light Pollution and the Prevalence of Depressive Disorders: A Medical Image-Processing Study on 35 US Cities"
+  authors:
+    - family-names: Zamaninasab
+      given-names: Hossein
+      orcid: https://orcid.org/0000-0002-7967-5945
+    - family-names: Heidarpanah
+      given-names: Arsalan
+  doi: 10.21203/rs.3.rs-7233105/v1
+  url: https://doi.org/10.21203/rs.3.rs-7233105/v1
